@@ -1,3 +1,23 @@
 # ninja log v5
 1	66	7053459779497334	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
 67	269	7053459781487316	C_Projects.exe	5c82fe5a4d3c76cc
+2	239	7056248628793020	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+239	535	7056248631722827	C_Projects.exe	5c82fe5a4d3c76cc
+2	70	7056248771720709	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+71	155	7056248772540990	C_Projects.exe	5c82fe5a4d3c76cc
+2	77	7056265785528237	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+77	170	7056265786418227	C_Projects.exe	5c82fe5a4d3c76cc
+2	247	7056387442456606	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+247	512	7056387445069230	C_Projects.exe	5c82fe5a4d3c76cc
+2	83	7056389039398117	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+83	183	7056389040368106	C_Projects.exe	5c82fe5a4d3c76cc
+1	80	7056389180404335	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+80	168	7056389181254334	C_Projects.exe	5c82fe5a4d3c76cc
+2	71	7056389273949062	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+71	160	7056389274809120	C_Projects.exe	5c82fe5a4d3c76cc
+2	71	7056389988027250	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+71	163	7056389988907253	C_Projects.exe	5c82fe5a4d3c76cc
+1	74	7056390887029474	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+74	166	7056390887909449	C_Projects.exe	5c82fe5a4d3c76cc
+3	89	7056395885577433	CMakeFiles/C_Projects.dir/main.c.obj	f93bb035f21534e3
+89	178	7056395886437424	C_Projects.exe	5c82fe5a4d3c76cc
